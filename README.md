@@ -8,4 +8,4 @@
 - 💬 Ask me about Kotlin here
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-esteves-9aba9589/
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+![Alt Text](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
