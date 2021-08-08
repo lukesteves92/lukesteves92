@@ -2,7 +2,7 @@
 
  ✨ Lucas Esteves here ✨ 
 
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently working at MarketUP with Kotlin/Android.
 - ✨ I’m Cisco Certified (CCNA & CCNP Routing and Switching)
 - ✨ Cyber Security Specialist
 - 💬 Ask me about Kotlin here
