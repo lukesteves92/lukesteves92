@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ✨ lukesteves92/lukesteves92 ✨ 
+ ✨ Lucas Esteves here ✨ 
 
 - 🌱 I’m currently learning Kotlin.
 - ✨ I’m Cisco Certified (CCNA & CCNP Routing and Switching)
