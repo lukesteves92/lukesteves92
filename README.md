@@ -2,10 +2,6 @@
 
  ✨ Lucas Esteves here ✨ 
 
-- ✨ I’m Cisco Certified (CCNA & CCNP Routing and Switching)
-- ✨ Cyber Security Specialist
-- 💬 Ask me about Kotlin here
-
 ```kotlin
 val lukesteves92 = developer {
     about {
