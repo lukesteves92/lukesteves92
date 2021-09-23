@@ -6,7 +6,7 @@
 val lukesteves92 = developer {
     about {
         name = "Lucas Esteves"
-        company = "MarketUP"
+        company = "Granito Pagamentos"
         role = "Android Developer"
     }
     tech("Kotlin", "Android", "Flutter")
