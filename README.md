@@ -6,10 +6,10 @@
 val lukesteves92 = developer {
     about {
         name = "Lucas Esteves"
-        company = "Granito Pagamentos"
+        company = "Americanas Delivery"
         role = "Android Developer"
     }
-    tech("Kotlin", "Android", "Flutter")
+    tech("Kotlin", "Android", "Java")
     links {
         linkedin = "https://www.linkedin.com/in/lucas-esteves-9aba9589/"
     }
