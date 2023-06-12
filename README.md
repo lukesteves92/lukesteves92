@@ -6,7 +6,7 @@
 val lukesteves92 = developer {
     about {
         name = "Lucas Esteves"
-        company = "Zup Innovation"
+        company = "AgileThought"
         role = "Senior Android Developer"
     }
     tech("Kotlin", "Android", "Java", "Jetpack Compose")
