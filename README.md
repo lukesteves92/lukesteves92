@@ -9,7 +9,7 @@ val lukesteves92 = developer {
         company = "Invillia"
         role = "Senior Android Developer"
     }
-    tech("Kotlin", "Android", "Java", "Jetpack Compose")
+    tech("Kotlin", "Android", "Java", "Jetpack Compose", "KMP")
     links {
         linkedin = "https://www.linkedin.com/in/lucas-esteves-9aba9589/"
     }
