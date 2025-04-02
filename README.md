@@ -6,8 +6,8 @@
 val lukesteves92 = developer {
     about {
         name = "Lucas Esteves"
-        company = "Alterdata Software"
-        role = "Senior Android Developer"
+        company = "BRQ Digital Solutions"
+        role = "Specialist Android Developer"
     }
     tech("Kotlin", "Android", "Java", "Jetpack Compose", "KMP")
     links {
